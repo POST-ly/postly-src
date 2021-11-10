@@ -10,9 +10,13 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <style>
+          {/*<style>
             @import
             url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+          </style>*/}
+          <style>
+            @import
+            url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
           </style>
         </Head>
         <body>
