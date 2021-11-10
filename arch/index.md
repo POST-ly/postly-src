@@ -18,3 +18,43 @@ A workspace is like a window that contains:
 - APIs
 - Environment variables
 - chat system
+- mock servers
+- collections
+
+A Collections can have:
+
+- Mock server
+- requests
+- folders
+
+A Request can have
+
+- Enviroment variables
+- URLs
+- body, auth, params, headers, pre-request script, tests
+- settings
+- response
+
+Body can have:
+
+- none
+- GraphQL
+- formdata
+- x-www-urlencoded
+- raw
+- binary
+
+Authorization:
+
+- Bearer token
+- API key
+- Basic Auth
+- Digest Auth
+- OAuth 1.0
+- OAuth 2.0
+
+A Response can have:
+
+- headers
+- tests
+- body
