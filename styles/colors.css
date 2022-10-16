@@ -1,0 +1,6 @@
+body:root {
+  --defaultColor: rgb(221 76 56);
+  --grey: rgb(128 128 128);
+  --urlInputColor: rgb(235 235 228);
+  --modalBackgroundColor: rgb(0 0 0 / 39%);
+}
